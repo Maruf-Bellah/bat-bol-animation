@@ -1,0 +1,11 @@
+{
+     "tailwindCSS.lint.cssConflict": "ignore",
+     "tailwindCSS.classAttributes": [
+          "class",
+          "className",
+          "ngClass",
+          "clss"
+     ],
+     "tailwindCSS.emmetCompletions": true,
+     "editor.wordWrap": "on"
+}
